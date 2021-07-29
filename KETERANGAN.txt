@@ -1,0 +1,17 @@
+=====================================================
+** SISTEM INFORMASI PERTANIAN **
+** DINAS PERTANIAN KOTA PADANG **
+=====================================================
+* PHP 8
+* Codeigniter 4
+* Bootstrap 4
+* Jquery
+=====================================================
+** Username & Password
+* Level 1 / ADMIN
+* Level 2 / KELOMPOK TANI
+* Level 0 / SUPER ADMIN
+
+Untuk mendapatkan username dan password silahkan :
+- Email ke adilsaputra0101@gmail.com fast respon!
+=====================================================
